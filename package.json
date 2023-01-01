@@ -26,7 +26,7 @@
     "babel-eslint": "10.0.3",
     "confusing-browser-globals": "1.0.9",
     "eslint": "6.6.0",
-    "eslint-loader": "3.0.2",
+    "eslint-loader": "4.0.2",
     "eslint-plugin-import": "2.18.2",
     "eslint-plugin-jsx-a11y": "6.2.3",
     "eslint-plugin-promise": "4.2.1",
